@@ -6,3 +6,15 @@ h1
 button {
   margin-inline-end: 30px;
 }
+img{
+  border-radius: 25%;
+  
+}
+.image 
+{
+display: flex;
+justify-content: space-between;
+
+
+
+}
